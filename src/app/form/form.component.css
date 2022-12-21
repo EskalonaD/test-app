@@ -1,0 +1,13 @@
+:host() {
+    display: block;
+    padding: 2px;
+    border: 1px dashed black;
+}
+
+.header {
+    text-align: center;
+}
+
+.submit-button {
+    text-align: center;
+}
